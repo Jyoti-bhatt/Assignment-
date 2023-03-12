@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  row-gap: 15px;
+ 
+
+}
+.app-row1{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  gap: 15px;
+  
+}
+/* .components{
+ display:grid;
+ grid-template-columns: auto auto auto;
+} */
+
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+@font-face {
+  font-family: "Black"; 
+  src: local("Rota-Black"),
+    url("./fonts/Rota/Rota-Black.otf") format('otf'),
+    ;
+}
+@font-face {
+  font-family: 'Bold';
+  src: local('Bold'),
+    url('./fonts/Rota/Rota-Bold.otf')format('otf');
+    font-weight: 700;
+    /* font-display: swap; */
+    
+}
+@font-face {
+  font-family: "Medium";  
+  src: local("Rota-Medium"),
+    url("./fonts/Rota/Rota-Medium.otf") format('otf');
+}
+@font-face {
+  font-family: "Black";   
+  src: local("Rota-Black"),
+    url("./fonts/Rota/Rota-Regular.otf") format('otf');
+}
+
+

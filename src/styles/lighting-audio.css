@@ -1,0 +1,40 @@
+
+.content{
+    display: flex;
+ 
+    flex-direction: row;
+    margin-top:10px;
+
+
+}
+.no{
+    font-weight: 700;
+    color:#5448C8;
+    font-size: 80px;
+}
+
+
+.status{
+    color:white;
+    font-size: 20px;
+    padding:3px 20px 3px 14px;
+    background-color: #6DD0A5 ;
+    height:20px;
+    margin-left: 4px;
+    border-radius:8px;
+    margin-top:24px;
+    height:fit-content
+}
+.collection{
+    margin-left:10px;
+    margin-top:33px;
+}
+.total{
+    color:#999999 ;
+    font-size:16px;
+}
+.total-no{
+    font-weight: 700;
+    color:#747171;
+    font-size: 25px;
+}

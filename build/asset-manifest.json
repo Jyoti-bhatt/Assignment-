@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6b2096e.css",
+    "main.js": "/static/js/main.064f366b.js",
+    "static/js/787.6a449a94.chunk.js": "/static/js/787.6a449a94.chunk.js",
+    "static/media/Rota-Bold.otf": "/static/media/Rota-Bold.3048305a43955892b568.otf",
+    "static/media/Rota-Regular.otf": "/static/media/Rota-Regular.bb2d22518da2476b9f41.otf",
+    "static/media/Rota-Medium.otf": "/static/media/Rota-Medium.87d754aaffd025a45f05.otf",
+    "static/media/Rota-Black.otf": "/static/media/Rota-Black.953b68de6d8440b1bc79.otf",
+    "static/media/logo.svg": "/static/media/logo.62e5e9965cb3984b0ce1f48db240873f.svg",
+    "static/media/snowflake.svg": "/static/media/snowflake.8477bd594fe38ae9e004a6f924c08cd7.svg",
+    "static/media/fire.svg": "/static/media/fire.1d99a9bf9e717461c21cea5c725780d6.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.53628835d5f8a76558d603b3191f4920.svg",
+    "static/media/arrow-up.svg": "/static/media/arrow-up.562cd7e1cc3c6cfb110e911868254dec.svg",
+    "main.e6b2096e.css.map": "/static/css/main.e6b2096e.css.map",
+    "main.064f366b.js.map": "/static/js/main.064f366b.js.map",
+    "787.6a449a94.chunk.js.map": "/static/js/787.6a449a94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b2096e.css",
+    "static/js/main.064f366b.js"
+  ]
+}
